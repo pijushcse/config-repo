@@ -1,0 +1,6 @@
+configuration:  
+  projectName: Batch Dev configclient
+server:
+  port: 8080
+message:
+  greeting: Hello from the piConfig BATCH DEV ENV

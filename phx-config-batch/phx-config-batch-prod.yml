@@ -1,0 +1,6 @@
+configuration:  
+  projectName: Batch Prod configclient
+server:
+  port: 8000
+message:
+  greeting: Hello from the piConfig BATCH PRODUCTION ENV

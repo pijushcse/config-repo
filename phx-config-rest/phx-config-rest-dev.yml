@@ -1,0 +1,6 @@
+configuration:  
+  projectName: Dev configclient
+server:
+  port: 8080
+message:
+  greeting: Hello from the piConfig REST DEV ENV
