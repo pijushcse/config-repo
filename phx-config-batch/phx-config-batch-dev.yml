@@ -3,4 +3,4 @@ configuration:
 server:
   port: 8080
 message:
-  greeting: Hello from the piConfig BATCH DEV ENV 911
+  greeting: Hello from the piConfig BATCH DEV ENV 911_2
